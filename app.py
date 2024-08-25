@@ -44,7 +44,7 @@ Each session should have the following format : **Session 3: History of Artifici
 
 | **Development of Lesson Plan**| **Teaching Aids** | **Time** |
 |---|---|---|
-| **Early AI Research and Developments** |  Projector - PPT presentation | 10 mins |
+| **Early AI Research and Developments** |  Projector - PPT presentation or any teaching aid | 10 mins |
 | **The Golden Age of AI and its Challenges** |  Projector - PPT presentation | 10 mins |
 | **The AI Winter and its Aftermath** | Projector - PPT presentation | 10 mins |
 | **The Rise of Modern AI: Machine Learning and Deep Learning** |  Projector - PPT presentation | 15 mins |
