@@ -16,7 +16,7 @@ def generate_lesson_plan_gemini(input_query):
         "temperature": 0.7,
         "top_p": 0.95,
         "top_k": 50,
-        "max_output_tokens": 2000,
+        "max_output_tokens": 3000,
         "response_mime_type": "text/plain",
     }
 
