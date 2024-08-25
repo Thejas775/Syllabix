@@ -123,7 +123,7 @@ def save_to_pdf(text, filename):
 
 # Streamlit app UI
 def main():
-    st.title("Lesson Plan Generator. Made by : AI and DS Department of DYPCOE, Akurdi")
+    st.title("Lesson Plan Generator made by AI and DS Department of DYPCOE, Akurdi")
     st.write("Enter the syllabus details below and generate a lesson plan: Only enter syllabus of one unit")
 
     input_query = st.text_area("Syllabus Details:", height=200)
