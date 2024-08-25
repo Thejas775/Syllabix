@@ -16,7 +16,7 @@ def generate_lesson_plan_gemini(input_query):
         "temperature": 0.7,
         "top_p": 0.95,
         "top_k": 50,
-        "max_output_tokens": 3000,
+        "max_output_tokens": 4000,
         "response_mime_type": "text/plain",
     }
 
@@ -42,15 +42,15 @@ Output format:
 The output should have a structure like below. The structure below is just an example.And the number of sessions must be equal to number of hours from the query above: Also add group discussions or any other means or ways to improve quality of study.
 Each session should have the following format : **Session 3: History of Artificial Intelligence (60 mins)**
 
-| **Development of Lesson Plan**| **Teaching Aids** | **Time** |
+| Development of Lesson Plan| Teaching Aids | Time |
 |---|---|---|
-| **Early AI Research and Developments** |  Projector - PPT presentation or any teaching aid | 10 mins |
-| **The Golden Age of AI and its Challenges** |  Projector - PPT presentation or any teaching aid | 10 mins |
-| **The AI Winter and its Aftermath** | Projector - PPT presentation or any teaching aid | 10 mins |
-| **The Rise of Modern AI: Machine Learning and Deep Learning** |  Projector - PPT presentation or any teaching aid  | 15 mins |
-| **Summary and Evaluation** |  Board | 5 mins |
-| **Home Assignment and Follow Up** |    | 5 mins |
-| **Preparation for Next Lecture** |    |  |
+| Early AI Research and Developments |  Projector - PPT presentation or any teaching aid | 10 mins |
+| The Golden Age of AI and its Challenges |  Projector - PPT presentation or any teaching aid | 10 mins |
+| The AI Winter and its Aftermath | Projector - PPT presentation or any teaching aid | 10 mins |
+| The Rise of Modern AI: Machine Learning and Deep Learning |  Projector - PPT presentation or any teaching aid  | 15 mins |
+| Summary and Evaluation |  Board | 5 mins |
+| Home Assignment and Follow Up |    | 5 mins |
+| Preparation for Next Lecture |    |  |
 
 TOTAL NUMBER OF SESSIONS FOR THIS UNIT: 07.
 """
